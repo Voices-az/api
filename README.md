@@ -7,9 +7,6 @@
 
 ## Installation
 
-- [Voices.az API on Packagist](https://packagist.org/packages/almazovelnar/voices-api)
-- [Voices.az API on GitHub](https://github.com/almazovelnar/voices-api)
-
 From the command line run
 
 ```
