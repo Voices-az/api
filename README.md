@@ -7,6 +7,8 @@
 
 ## Installation
 
+- [Voices.az API Docs](http://voices.loc/api/documentation)
+
 From the command line run
 
 ```
