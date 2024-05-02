@@ -8,6 +8,8 @@
 ## Installation
 
 - [Voices.az API Docs](http://voices.loc/api/documentation)
+- [Voices.az API on Packagist](https://packagist.org/packages/voices-az/api)
+- [Voices.az API on GitHub](https://github.com/voices-az/api)
 
 From the command line run
 
