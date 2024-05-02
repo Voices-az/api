@@ -1,10 +1,10 @@
 {
-  "name": "almazovelnar/voices-api",
+  "name": "voices-az/api",
   "description": "API library for Voices.az",
   "minimum-stability": "stable",
   "prefer-stable": true,
   "license": "MIT",
-  "homepage": "https://github.com/almazovelnar/voices-api",
+  "homepage": "https://github.com/Voices-az/api",
   "keywords": [
     "laravel",
     "voices",
